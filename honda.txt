@@ -1,2 +1,3 @@
 welcome
 devops training program
+Learn fast
